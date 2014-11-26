@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thirty-four</title>
+    <description>Thirty-four is a web log covering web technologies, on the web.</description>
+    <link>http://www.posnick.org/</link>
+    <atom:link href="http://www.posnick.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 26 Nov 2014 12:12:49 -0500</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2014 12:12:49 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>Thirty-four is on the web (again)</title>
+        <description>&lt;p&gt;I’m using this for some techinical things.&lt;/p&gt;
+
+&lt;p&gt;Whither &lt;a href=&quot;http://thirtyfour.blogspot.com&quot;&gt;34&lt;/a&gt;?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Nov 2014 18:34:34 -0500</pubDate>
+        <link>http://www.posnick.org/meta/2014/11/25/thirty-four-is-on-the-web-again.html</link>
+        <guid isPermaLink="true">http://www.posnick.org/meta/2014/11/25/thirty-four-is-on-the-web-again.html</guid>
+        
+        
+        <category>meta</category>
+        
+      </item>
+    
+  </channel>
+</rss>
