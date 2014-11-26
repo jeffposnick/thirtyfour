@@ -5,22 +5,29 @@
     <description>Thirty-four is a web log covering web technologies, on the web.</description>
     <link>http://www.posnick.org/</link>
     <atom:link href="http://www.posnick.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Nov 2014 12:12:49 -0500</pubDate>
-    <lastBuildDate>Wed, 26 Nov 2014 12:12:49 -0500</lastBuildDate>
+    <pubDate>Wed, 26 Nov 2014 17:08:47 -0500</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2014 17:08:47 -0500</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
-        <title>Thirty-four is on the web (again)</title>
-        <description>&lt;p&gt;I’m using this for some techinical things.&lt;/p&gt;
-
-&lt;p&gt;Whither &lt;a href=&quot;http://thirtyfour.blogspot.com&quot;&gt;34&lt;/a&gt;?&lt;/p&gt;
+        <title>Getting Started (Again)</title>
+        <description>&lt;h1 id=&quot;the-domain&quot;&gt;The Domain&lt;/h1&gt;
+&lt;p&gt;I registered thirty-four.info using &lt;a href=&quot;https://domains.google.com&quot;&gt;Google Domains&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 Nov 2014 18:34:34 -0500</pubDate>
-        <link>http://www.posnick.org/meta/2014/11/25/thirty-four-is-on-the-web-again.html</link>
-        <guid isPermaLink="true">http://www.posnick.org/meta/2014/11/25/thirty-four-is-on-the-web-again.html</guid>
+        <pubDate>Wed, 26 Nov 2014 07:34:34 -0500</pubDate>
+        <link>http://www.posnick.org/2014/11/26/getting-started.html</link>
+        <guid isPermaLink="true">http://www.posnick.org/2014/11/26/getting-started.html</guid>
         
+        <category>meta,</category>
         
-        <category>meta</category>
+        <category>https,</category>
+        
+        <category>app</category>
+        
+        <category>engine,</category>
+        
+        <category>hosting</category>
+        
         
       </item>
     

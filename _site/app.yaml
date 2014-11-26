@@ -1,0 +1,13 @@
+application: thirty-four-34
+version: jekyll
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /
+  upload: _site/index.html
+  static_files: _site/index.html
+- url: /(.*)
+  upload: _site/(.*)
+  static_files: _site/\1
