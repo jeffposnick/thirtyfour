@@ -1,0 +1,12 @@
+# Site settings
+title: 34
+email: thirtyfour@posnick.org
+description: > # this means to ignore newlines until "baseurl:"
+  Interested in sophisticated fun?
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.posnick.org" # the base hostname & protocol for your site
+twitter_username: jeffposnick
+github_username:  jeffposnick
+
+# Build settings
+markdown: kramdown
